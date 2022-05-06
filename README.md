@@ -1,12 +1,6 @@
 # HashGen
 Hash Generator birden fazla şifreleme sistemini aynı anda kullanmanızı sağlar 
 
-'''                 _             ___
-  /\  /\__ _ ___| |__         / _ \___ _ __
- / /_/ / _` / __| '_ \ _____ / /_\/ _ \ '_ \
-/ __  / (_| \__ \ | | |_____/ /_\\  __/ | | |
-\/ /_/ \__,_|___/_| |_|     \____/\___|_| |_|
-'''
 Instagram: l4ncelotcoder 17:1:57 - 5/5/2022
 
 Hash: lancelot
